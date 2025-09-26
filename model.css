@@ -1,0 +1,15 @@
+* {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+.kartya{
+    display: inline-flex;
+}
+.fajtak{
+    text-align: center;
+}
+.card{
+    margin: 0 2rem 0 2rem;
+}
