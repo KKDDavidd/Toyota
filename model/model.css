@@ -1,0 +1,49 @@
+* {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    overflow-x: hidden;
+}
+
+.kartya {
+    display: inline-flex;
+    overflow-y: hidden;
+}
+
+.fajtak {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.card {
+    margin: 0 2rem 0 2rem;
+    height: 455px;
+}
+
+body {
+    background-color: #CCCCCC;
+}
+
+.tlogo {
+    width: 50px;
+}
+
+.kozepek {
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.nav-link {
+    color: #FFF;
+}
+
+.nav-link:hover {
+    color: antiquewhite;
+}
+
+.ittvok {
+    color: #A1A1A1 !important
+}
