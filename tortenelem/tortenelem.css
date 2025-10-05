@@ -1,29 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
-body{
+
+body {
     background-color: #CCCCCC;
 }
 
-.menusor{
-    font-size: 30px;
+* {
     font-family: "Raleway", sans-serif;
     text-align: justify;
     font-weight: 400;
 }
-.kep{
+
+.kep {
     width: 50px;
 }
-.nav-link{
+
+.nav-link {
     color: #FFF;
 }
-.nav-link:hover{
+
+.nav-link:hover {
     color: antiquewhite;
 }
-.epuletnev{
+
+.epuletnev {
     background-image: url(img_tortenelem/toyota_foepulet.JPG);
-    width:260px; 
-    height:385px; 
+    width: 260px;
+    height: 385px;
     background-repeat: no-repeat;
-    background-color:rgba(255, 228, 196, 0.644) ;
+    background-color: rgba(255, 228, 196, 0.644);
     float: left;
     margin-left: 25px;
     margin-right: 25px;
@@ -34,7 +38,8 @@ body{
     text-align: center;
     padding-top: 335px;
 }
-.szoveg{
+
+.szoveg {
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
     text-align: justify;
@@ -42,11 +47,29 @@ body{
 }
 
 
-h1{
+h1 {
     margin: 20px;
-    padding-bottom:10px ;
+    padding-bottom: 10px;
     margin-bottom: 50px;
-    border-bottom-color: #808080 ;
+    border-bottom-color: #808080;
     border-bottom-width: 4px;
-    border-bottom-style:solid;
+    border-bottom-style: solid;
+}
+
+.ittvok {
+    color: #A1A1A1 !important
+}
+.zaro{
+    margin-top: 50px;
+    text-align: center;
+    padding: 25px 0 10px 0 !important ;
+    background-color: black;
+    color: #FFF;
+}
+.zaro p{
+    margin-top: 0;
+    text-align: center;
+    padding: 25px 0 10px 0 !important;
+    background-color: black;
+    color: #FFF;
 }
