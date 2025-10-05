@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-color: #CCCCCC;
+}
+
+.menusor{
+    font-size: 30px;
+    font-family: "Raleway", sans-serif;
+    text-align: justify;
+    font-weight: 400;
+}
+.kep{
+    width: 50px;
+}
+.nav-link{
+    color: #FFF;
+}
+.nav-link:hover{
+    color: antiquewhite;
+}
+.epuletnev{
+    background-image: url(img_tortenelem/toyota_foepulet.JPG);
+    width:260px; 
+    height:385px; 
+    background-repeat: no-repeat;
+    background-color:rgba(255, 228, 196, 0.644) ;
+    float: left;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 15px;
+    border-color: rgb(255, 228, 196);
+    border-style: solid;
+    border-width: 5px;
+    text-align: center;
+    padding-top: 335px;
+}
+.szoveg{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    display: contents;
+}
+
+
+h1{
+    margin: 20px;
+    padding-bottom:10px ;
+    margin-bottom: 50px;
+    border-bottom-color: #808080 ;
+    border-bottom-width: 4px;
+    border-bottom-style:solid;
+}
